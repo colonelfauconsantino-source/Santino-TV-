@@ -1,1 +1,39 @@
-﻿{"Version":"1.118.16","AccountID":12964433163,"MatchID":2005014656425521152,"MatchDateTime":"2025-12-27-21-43-14_2005014656425521152_12964433163","GameTotalTime":429.7770080566406,"MapID":22,"MatchMode":6,"GameMode":15,"GroupMode":3,"LayerID":0,"FileName":"2025-12-27-21-43-14_2005014656425521152_12964433163_rep.bin","PlayerCount":2,"Rank":1,"Kill":0,"RankingPointsAfter":65,"RankingPointsDelta":1,"WorkshopBytes":"","IsSaved":false,"IsTemporary":false,"IsGenerated":true,"HighlightScore":4,"HasKillCam":false,"HighlightEvents":[],"HeadShotHighlightEvents":[],"MultiKillHighlightEvents":[],"MultiKillHighlightGuaranteedEvents":[],"CSAceHighlightEvents":[],"EpicHighlightEvents":[],"Events":[{"Time":48.834999084472659,"EventGroup":65,"Index":0},{"Time":72.06800079345703,"EventGroup":1073741824,"Index":0},{"Time":186.30499267578126,"EventGroup":1073741824,"Index":0},{"Time":299.32000732421877,"EventGroup":1073741824,"Index":0},{"Time":429.625,"EventGroup":1073741824,"Index":0}],"AchievementList":[],"AchievementArgsList":[],"KillEvents":[{"EventID":22,"TriggerPoint":48.834999084472659,"Serial":4,"Group":65,"weaponDataID":56,"position":{"x":-90.8782730102539,"y":19.079299926757814,"z":361.5212707519531},"beKilledPlayerPos":{"x":-89.14923858642578,"y":19.07969856262207,"z":370.2041015625},"CurRound":1}],"DeadEvents":[{"EventID":71,"TriggerPoint":262.125,"Group":16,"position":{"x":143.56849670410157,"y":14.213513374328614,"z":48.64390563964844},"CurRound":3},{"EventID":71,"TriggerPoint":350.7590026855469,"Group":16,"position":{"x":381.8233947753906,"y":10.501951217651368,"z":46.74332809448242},"CurRound":4}],"RoundEvents":[{"Time":72.06800079345703,"EventGroup":1073741824,"Index":0},{"Time":186.30499267578126,"EventGroup":1073741824,"Index":0},{"Time":299.32000732421877,"EventGroup":1073741824,"Index":0},{"Time":429.625,"EventGroup":1073741824,"Index":0}],"AvatarData":{"avatarID":101000015,"cloth":[205000299,214000000,204047025,211000000,203043042,211043057]},"HasInitAvatarData":true,"PersonMedals":[],"StartSkipTime":0.0}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Santino TV</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <h1>Santino TV</h1>
+
+    <a href="https://www.facebook.com/profile.php?id=61585158597219" target="_blank">
+      <button>Suivre Santino TV sur Facebook</button>
+    </a>
+
+    <div>
+      <img src="1765715550599.jpg" alt="Santino TV">
+    </div>
+
+    <strong>Pour tous vos films...</strong>
+  </header>
+
+  <div>
+    <a href="#" target="_blank">
+      <button>Films</button>
+    </a>
+  </div>
+
+  <video width="100%" controls>
+    <source src="PREMIÈRE 2026 🌟Nouveau Film D_action Complet en Français_ 2025 _ Super Meilleur Film(360P).mp4" type="video/mp4">
+    Votre navigateur ne supporte pas la vidéo.
+  </video>
+
+</body>
+</html>
